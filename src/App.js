@@ -1,6 +1,7 @@
 
-import './App.css';
 import { Navbar, NavbarBrand } from 'reactstrap';
+import { Component } from 'react';
+
 class App extends Component {
   render() {
     return (
